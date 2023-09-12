@@ -1,0 +1,10 @@
+#bussy {
+    background-image: linear-gradient(blue, red);
+    color: white;
+    border-style: solid;
+    border-color: orange;
+}
+
+body {
+    background-color: black;
+}

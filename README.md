@@ -1,2 +1,2 @@
-# Js-cool-awesome-website
+# Jacksons-cool-awesome-website
 hitting the griddy from monday to sunday
